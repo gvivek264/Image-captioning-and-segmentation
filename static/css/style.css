@@ -1,7 +1,7 @@
 /* Custom Styles for Image Captioning & Segmentation App */
 
 :root {
-    --primary-color: #007bff;
+    --primary-color: #00ffa6;
     --secondary-color: #6c757d;
     --success-color: #28a745;
     --info-color: #17a2b8;
@@ -20,7 +20,7 @@ body {
 
 /* Hero Section */
 .hero-section {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #44c7a4 0%, #dad737 100%);
     color: white;
     min-height: 100vh;
     display: flex;
